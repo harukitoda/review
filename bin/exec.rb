@@ -1,0 +1,8 @@
+system('sh bin/review-shell/db.sh')
+system('sh bin/review-shell/user.sh')
+system('sh bin/review-shell/item-create.sh')
+system('sh bin/review-shell/item-index.sh')
+system('sh bin/review-shell/item-show.sh')
+system('sh bin/review-shell/item-edit.sh')
+system('sh bin/review-shell/item-destroy.sh')
+system('sh bin/review-shell/item-purchase.sh')
